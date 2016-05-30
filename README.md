@@ -1,2 +1,2 @@
-# KRC_CommIC.pretty
-KiCad Communication IC library
+# KUT_CommIC.pretty
+KUT KiCad Communication IC library
